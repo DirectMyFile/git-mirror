@@ -1,0 +1,7 @@
+name: git_mirror
+description: Git Mirror System
+version: 0.0.1
+dependencies:
+  legit:
+    git: https://github.com/DirectMyFile/legit.git
+
